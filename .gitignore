@@ -1,0 +1,19 @@
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE temporary files
+*.bak
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*~
